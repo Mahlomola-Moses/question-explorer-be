@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "t-replica-405819",
+  "private_key_id": "d66f1c79a8b04f97a6ff1dcaf5926f63bd4845b1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLUvkw+C+ZLIEN\njCNo/2IKmKdftTJv04nQjCV5z4iFUFXmBqRNKG9bccejRcg9sm6ePFxRKYcuC/KF\njfmpMH5vvlhGJI+axKtto2aWaWJdNt6ls9/jbdPfeWcdFtVE84JIjtObdq9pqLU9\nHnurt8I0TaCv26lw3GAP+QJmQjquPJmF1I2NjJ4f7kMdTSkMTVwGXuBwmDUQg5Qx\nowhziUKQzx8YRGQmepyuFpH4ngrlDGme011IHroIeMj3t00RxgZvnmpzI7FhAmyw\nf6VVJgt0NPFX9XBlf9r02/cDfV5pkjT+MX6UwmlYPuLTUhkp7CQK+Ep7uz5fWR4x\nEwfUONybAgMBAAECggEABu+J/TCVugPXptN/ncX83Pctedu814lJ1oprgS1eJ/jQ\nVeOlwTuOk5hN7mhWaA/eZt0tYVL2akno+FIRiCUkXi61GUTPq044FHyqajlzzp0h\nJ1GVhy5b+keCZRXSZxzSMwd9LEOTxuhBoXnHgUxkDBODOM3wGPC3jYQBZRLN9gd2\ndUkyzo2UCUkDo55H/njMr3zhw7AH0fLOZAyPCOdeY3zwe6troqWrF6zn4jLV/mst\nSNB11evE77ykx/haRwmGr4gFimo5lvMYaxtZUCNgERq+8gA6ZQt2Dt92qLU63YGP\nx5nda8hiGeg5rqiD6t7Z7N7g7ueAWZcX//l6hnSRMQKBgQC+Ov4C7tEtnPXPqOMC\nLK8LFSj5bXpPZmdIaA8D9IPrEt9ZMneGArXAExylMKBvR51rHtJ3rbznAN1DHcxQ\nfCnUjIob0A8vnBW2PKUKVo8RBopI3K7Qukj4F+bVaC9C/2LLaOCPdqrtJIdZmYxu\nWaewefhmYAxwLn85/VDrfeRgMQKBgQC7flbyN3BW0wDaWrkKwyakGFxK20V7vC/2\n+bjP7QovDZ+9D7+pSV7LyU+5dJADVDXGg6IOpp1kbew5poLhU1wb1UrCB0Mdv7Eq\nkYhqxvsWKw/+sqkHsflSBncSIpd36MxTKwVKKtupsLqq78MIWw4g9kb1bV9gXlPS\nnsASECxCiwKBgQC9B1vPyEYd4EG21yi0yXgrOByeNnZ6ndR188kv8fKATiGYvfhd\nNyYpthQZ5gcWbQB1KIyVlhQHLCmx/tM/CxJ5/ili182vTpeYngyWCEtj7K7PFlO0\nX9gQh5e+aifEmIgwfofep1nUCh9hHp6YLQjf6WO3Pyw88UdFdX3KdC/SkQKBgD8z\nIAW3kEOEDpaL3DH3hC/uEjYdYXeLALQEizpzUWp48i5df6KFm9GfgyMlWmH04ceP\nmXHM0eMHdogcS6O+YJ71L6Tlo8cEVajes5giiIJ5c4PMH1P7tuniSgKv7FS8ARvL\ntZXBipfRfaqe9SP85W9Q9KxH+M1YHnMxldbA4tpvAoGARUD5b6PWfrIe7Yl5hqIw\n8Iow5Du1kDHJan55LSDzXkiKfujRd5GrfZDIXfUgzDHGTTUiLb99MKMRL572tjdV\nEcfQYI73xgsMGiPKyDg+KR8Yn3j1oiyMv+boxs6bCtrCeQNUZEnx0l/LfaK5Gs6B\nRD5mItEw/pG0+7zKWplthLE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "past-question-papers@t-replica-405819.iam.gserviceaccount.com",
+  "client_id": "118214848601905616039",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/past-question-papers%40t-replica-405819.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
